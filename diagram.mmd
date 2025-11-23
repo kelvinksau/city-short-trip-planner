@@ -1,0 +1,15 @@
+graph TD
+    User[User Request] -->|Preferences| Root[Root Agent: Orchestrator]
+    
+    subgraph "Agent Engine"
+        Root -->|1. Get Recommendations| Inspiration[Inspiration Agent]
+        Inspiration -->|List of Places| Root
+        
+        Root -->|2. Optimize Route| Activities[Activities Agent]
+        Activities -->|Timed Schedule| Root
+        
+        Root -->|3. Format Plan| Itinerary[Itinerary Agent]
+        Itinerary -->|Final Markdown| Root
+    end
+    
+    Root -->|Final Itinerary| User
