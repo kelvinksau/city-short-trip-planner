@@ -178,7 +178,7 @@ Building this multi-agent system presented unique challenges in **prompt enginee
 *   **Solution**: We refined the system instructions to enforce a "budget" of 4-5 key locations per day.
 *   **Tech Stack**:
     *   **Framework**: Google ADK (Agent Development Kit) for agent definitions.
-    *   **LLM**: Gemini 1.5 Flash (chosen for speed and reasoning capability).
+    *   **LLM**: Gemini 2.5 Flash (chosen for speed and reasoning capability).
     *   **Backend**: FastAPI (high-performance async Python web framework).
     *   **Frontend**: Streamlit (for rapid, interactive UI prototyping).
     *   **Deployment**: Vertex AI Agent Engine (Managed Reasoning Engine).

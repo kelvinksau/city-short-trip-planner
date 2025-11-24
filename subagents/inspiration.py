@@ -26,7 +26,7 @@ Option A — Short bullet list (ideal for routing/agent parsing):
 • [Place/Activity 1] – short 1-sentence description
 • [Place/Activity 2] – short 1-sentence description
 • [Place/Activity 3] – short 1-sentence description
-(max 5–7 items)
+(max 4–5 items)
 
 Option B — Inspirational paragraph (if a narrative flow works better):
 A single engaging paragraph (3–5 sentences) highlighting the top recommendations.
