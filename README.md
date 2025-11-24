@@ -12,7 +12,7 @@ Planning a short city trip is often overwhelming. Travelers struggle with:
 *   **Information Overload**: Sifting through endless blogs and reviews to find "must-see" spots.
 *   **Logistical Nightmares**: Figuring out the best order to visit places to minimize travel time.
 *   **Generic Suggestions**: Getting cookie-cutter itineraries that don't match their specific interests (e.g., "hidden gems" vs. "tourist hotspots").
-*   **Time Constraints**: Maximizing a limited 1-3 day window without feeling rushed.
+*   **Time Constraints**: Maximizing a limited 1-7 day window without feeling rushed.
 
 A single LLM prompt often hallucinates locations or suggests physically impossible routes (e.g., jumping between distant districts instantly). Travelers need a solution that "thinks" like a local expert.
 
